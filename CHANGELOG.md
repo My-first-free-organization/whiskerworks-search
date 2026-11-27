@@ -1,4 +1,4 @@
 # Changelog
 
-## Sprint 142
-- search: maintenance and dependency updates (2026-11-26 13:19)
+## Sprint 143
+- search: maintenance and dependency updates (2026-11-27 06:52)
